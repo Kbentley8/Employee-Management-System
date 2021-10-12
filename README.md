@@ -32,7 +32,7 @@
  
   
 
-[Git Hub Repo Link](https://github.com/Kbentley8/Note-Taker)
+[Git Hub Repo Link](https://github.com/Kbentley8/Employee-Management-System)
 
 ## Demo 
 
