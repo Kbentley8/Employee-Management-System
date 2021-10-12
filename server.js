@@ -1,8 +1,6 @@
 const connection = require('./config/connection');
 const inquirer = require('inquirer');
 const cTable = require('console.table');
-const chalk = require('chalk');
-const figlet = require('figlet');
 const validate = require('./javascript/validate');
 
 // Database Connect and Starter Title
