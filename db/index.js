@@ -2,8 +2,8 @@ const connection = require("./connection");
 
 class employeeDB {
 
-    const
-
-
-
+     this.connection = connection;
 }
+
+
+// show all employees
