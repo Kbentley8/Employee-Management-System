@@ -30,9 +30,11 @@
 - Choosing "add department" will present the user with prompts to add a department to the database.
 - Choosing "update employee" will present the user with a list of employees which they will chose from to update.
  
-  
+ 
+[Demo Link](https://drive.google.com/file/d/1hW9Q9AjrC9TQgGZPmGUjQr1ffnsyI2WF/view?usp=sharing) 
 
 [Git Hub Repo Link](https://github.com/Kbentley8/Employee-Management-System)
+
 
 ## Demo 
 
